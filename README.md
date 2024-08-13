@@ -1,5 +1,7 @@
 # CRUD (crud-quasar)
 
+GA4
+
 Projeto para gerenciamento de clientes e produtos, aonde existe associação de produtos a cada cliente. No projeto é possível realizar, o cadastro, edição e vinculação de produtos aos clientes. 
 O projeto também tem como objetivo principal demonstrar meus conhecimentos utilizando a tecnologia VueJS.
 
@@ -140,4 +142,4 @@ Durante o processo de criação do projeto foi utilizado o fluxo do Git Flow (co
 ### Aplicação publicada
 
 Aplicação disponível para visualização em:
-https://crud-vue-quasar-samuelmvf.vercel.app/
+https://crud-vue-quasar.vercel.app/
